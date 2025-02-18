@@ -48,6 +48,7 @@ The main objectives of this repository are to:
 - Alert management
 
 ## 🏗️ Repository Structure
+```
 devops-learning/
 ├── linux/
 │   ├── shell-scripts/
@@ -68,3 +69,4 @@ devops-learning/
     ├── prometheus/
     ├── grafana/
     └── elk-stack/
+```
